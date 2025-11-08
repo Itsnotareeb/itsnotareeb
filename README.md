@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://x.com/areeb_ansari__" target="blank"><img src="https://x.com/areeb_ansari__? alt="https://x.com/areeb_ansari__" /></a> </p>
 
-- 🔭 I’m currently doing Data Science and Generative AI at **upGrad**
+- 🔭 I’m currently doing Masters in Data Analytics at **Queen Mary University of London**
 
 - 🌱 I’m currently learning **Data Science and Generative AI**
 
