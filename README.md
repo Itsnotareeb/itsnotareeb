@@ -11,7 +11,7 @@
 
 - I'm currently looking to collaborate with **Data science and analysis projects**
 
-- 💬 Ask me about **Python, MySQL, Tableau, MS Excel, Cars and Games**
+- 💬 Ask me about **Python, MySQL, Tableau, Machine Learning, MS Excel, Cars and Games**
 
 - 📫 How to reach me **areeb2352@gmail.com**
 
