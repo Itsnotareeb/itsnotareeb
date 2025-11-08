@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing Masters in Data Analytics at **Queen Mary University of London**
 
-- 🌱 I’m currently learning **Data Science and Generative AI**
+- 🌱 I’m currently learning **Data Science, Machine Learning Models and Generative AI**
 
 - I'm currently looking to collaborate with **Data science and analysis projects**
 
